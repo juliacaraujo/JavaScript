@@ -1,7 +1,0 @@
-Declarando variavel e vendo o tipo de váriavel:
-> var nome = "julia"
-undefined
-> nome
-'julia'
-> typeof nome
-'string'
